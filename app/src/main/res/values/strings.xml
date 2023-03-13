@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memory of a Goldfish</string>
+    <string name="playButton_label">Play</string>
+    <string name="highScoreButton_label">High Scores</string>
+    <string name="tilesFlipped">Tiles Flipped:</string>
+    <string name="tilesFlippedDefault">Tiles Flipped:0</string>
+    <string name="sequenceCounter">Sequence Counter:</string>
+    <string name="sequenceCounterDefault">Sequence Counter:0</string>
+    <string name="timer">Timer:</string>
+    <string name="timerDefault">Timer:0</string>
+    <string name="highScoresText">High Scores</string>
+    <string name="winText">You Win!</string>
+</resources>

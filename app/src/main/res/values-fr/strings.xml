@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Mémoire d'un poisson rouge "</string>
+    <string name="playButton_label">Jouer</string>
+    <string name="tilesFlipped">Tuiles retournées:</string>
+    <string name="tilesFlippedDefault">Tuiles retournées: 0</string>
+    <string name="timer">Minuteur:</string>
+    <string name="sequenceCounter">Compteur de séquence:</string>
+    <string name="sequenceCounterDefault">Compteur de séquence: 0</string>
+    <string name="highScoreButton_label">Scores élevés</string>
+    <string name="timerDefault">Minuteur:0</string>
+    <string name="highScoresText">Scores élevés</string>
+    <string name="winText">Vous gagnez!</string>
+</resources>
